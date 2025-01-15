@@ -5,9 +5,7 @@ body {
 }
 
 header {
-    background: radial-gradient(circle, #ff9a9e, #fad0c4, #fbc2eb);
-    height: 100vh;
-    margin: 0;
+    background: radial-gradient(circle, #0000FF, #00BFFF, #87CEEB);
     color: white;
     padding: 100px 0;
 }
